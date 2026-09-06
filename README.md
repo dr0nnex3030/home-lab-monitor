@@ -20,3 +20,8 @@ This repository contains Python scripts for automating system monitoring, local 
 
 1. Clone this repository.
 2. Create a `.env` file in the root directory with your Telegram credentials:
+
+Screenshoots:
+![Telegram Alert](telegram_alert.jpeg)
+![Network Monitor](network_monitoring.jpeg)
+![PDF Report](pdf_report.jpeg)
